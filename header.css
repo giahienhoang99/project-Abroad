@@ -1,0 +1,36 @@
+header{
+    display:  flex;
+    justify-content: space-around;
+}
+
+.cot1{
+    /* background-color: grey; */
+    display: inline-block;
+    width:19%;
+    height: 80px;
+    font-size: 20px;
+    text-decoration: black;
+}
+.cot2{
+    /* background-color: pink; */
+    display: inline-block;
+    width: 19%;
+    height: 80px;
+    font-size: 20px;
+}
+.cot3{
+    /* background-color: green; */
+    display: inline-block;
+    width: 19%;
+    height: 80px;
+    font-size: 20px;
+}
+.cot4{
+    /* background-color: blue; */
+    display: inline-block;
+    width: 19%;
+    height: 80px;
+    font-size: 20px;
+}
+
+ 

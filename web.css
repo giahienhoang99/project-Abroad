@@ -1,0 +1,55 @@
+/* div body */
+ 
+.tonhat{
+    /* margin: 0px 200px 0px 200px; */
+    text-align: center;  
+}
+.tonhat4{
+    margin: 0px 200px 0px 200px;
+}
+.tonhat5{
+    margin: 0px 200px 0px 200px;
+}
+.tonhat6{
+    margin: 0px 200px 0px 200px;
+}
+header {
+    background-color: white;
+}
+body {
+    background-color: rgb(116, 205, 240);
+}
+.culon {
+    background-color: rgb(119, 179, 235);
+}
+.usa {
+    background-image: url("USAstudy2.jpg");
+    background-size: cover;
+}
+.can {
+    background-image: url("CANstudy.jpg");
+    background-size: cover;
+}
+.uk {
+    background-image: url("UKstudy2.jpg");
+    background-size: cover;
+}
+.culoz {
+    margin: 0px 200px 0px 200px;
+    text-align: left;
+}
+footer {
+    text-align: center;
+    font-size: 25px;
+}
+.bgimg {
+    width: 100%;
+    height: 300px;
+
+    background-image: url("grad_bg-img.jpg");
+    background-attachment: fixed;
+}
+
+
+
+ 
